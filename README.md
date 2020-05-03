@@ -8,3 +8,7 @@ This repository contains the implementation of an artificial neural network usin
 
 `pip3 intsall -r requirements.txt`
 
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/#suggest-this-license)
+
